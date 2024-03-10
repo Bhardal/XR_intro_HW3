@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Grip
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/Os.014
+    m_Weight: 0
+  - m_Path: Armature/Os.014/Os
+    m_Weight: 0
+  - m_Path: Armature/Os.014/Os/Cube
+    m_Weight: 0
+  - m_Path: Armature/Os.014/Os/Os.001
+    m_Weight: 0
+  - m_Path: Armature/Os.014/Os/Os.001/Cube.001
+    m_Weight: 0
+  - m_Path: Armature/Os.014/Os/Os.001/Os.002
+    m_Weight: 0
+  - m_Path: Armature/Os.014/Os/Os.001/Os.002/Cube.002
+    m_Weight: 0
+  - m_Path: Armature/Os.014/Os/Os.001/Os.002/Os.002_end
+    m_Weight: 0
+  - m_Path: Armature/Os.014/Os.003
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.003/Cube.003
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.003/Os.004
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.003/Os.004/Cube.004
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.003/Os.004/Os.005
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.003/Os.004/Os.005/Cube.005
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.003/Os.004/Os.005/Os.005_end
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.006
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.006/Cube.006
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.006/Os.007
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.006/Os.007/Cube.007
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.006/Os.007/Os.008
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.006/Os.007/Os.008/Cube.008
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.006/Os.007/Os.008/Os.008_end
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.009
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.009/Cube.009
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.009/Os.010
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.009/Os.010/Cube.010
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.009/Os.010/Os.011
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.009/Os.010/Os.011/Cube.011
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.009/Os.010/Os.011/Os.011_end
+    m_Weight: 1
+  - m_Path: Armature/Os.014/Os.012
+    m_Weight: 0
+  - m_Path: Armature/Os.014/Os.012/Cube.012
+    m_Weight: 0
+  - m_Path: Armature/Os.014/Os.012/Os.013
+    m_Weight: 0
+  - m_Path: Armature/Os.014/Os.012/Os.013/Cube.013
+    m_Weight: 0
+  - m_Path: Armature/Os.014/Os.012/Os.013/Os.013_end
+    m_Weight: 0
+  - m_Path: "Armature/Os.014/Sph\xE8re"
+    m_Weight: 0
+  - m_Path: Camera
+    m_Weight: 0
+  - m_Path: Light
+    m_Weight: 0
